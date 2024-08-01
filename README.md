@@ -142,3 +142,6 @@ git commit -m "Add README file with project details"
 git push origin main
 
 
+The prototype video link :https://www.youtube.com/watch?v=VIE4CCsltro
+
+
